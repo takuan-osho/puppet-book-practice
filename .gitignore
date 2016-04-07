@@ -7,3 +7,5 @@
 .hgsubstate
 .hgtags
 .git
+
+.vagrant
